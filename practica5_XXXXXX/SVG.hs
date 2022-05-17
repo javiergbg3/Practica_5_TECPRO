@@ -1,3 +1,9 @@
+-- File:   SVG.hs
+-- Author: Javier González Blanco (815579), Diego Domingo Ralla (818637)
+-- Date:   17 mayo 2022
+-- Coms:   Tecnología de la Programación - Práctica 5
+--         Módulo que incluye la función SVG
+
 module SVG(savesvg) where
 
 import Text.Printf
